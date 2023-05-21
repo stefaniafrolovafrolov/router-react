@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/router-react/static/css/main.80acea53.css",
+    "main.js": "/router-react/static/js/main.92e972c4.js",
+    "static/js/496.af136de0.chunk.js": "/router-react/static/js/496.af136de0.chunk.js",
+    "static/media/jpg": "/router-react/static/media/6055ae3fc2648f308f8ad67d912941b8.a0f7a6fafe73def8404c.jpg",
+    "static/media/webp": "/router-react/static/media/deec01f1a6b0cc169f292a672c9206a9.33673a947c154cfa260e.webp",
+    "static/media/house.webp": "/router-react/static/media/house.7e9bd5860ca79ab69dab.webp",
+    "static/media/mersedes.webp": "/router-react/static/media/mersedes.421fbe8c7ed6fcdc7192.webp",
+    "static/media/i.webp": "/router-react/static/media/i.cc81a2cb59f7968d7d35.webp",
+    "static/media/bmwwwww.webp": "/router-react/static/media/bmwwwww.a0d4df680c23cd815a04.webp",
+    "index.html": "/router-react/index.html",
+    "main.80acea53.css.map": "/router-react/static/css/main.80acea53.css.map",
+    "main.92e972c4.js.map": "/router-react/static/js/main.92e972c4.js.map",
+    "496.af136de0.chunk.js.map": "/router-react/static/js/496.af136de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80acea53.css",
+    "static/js/main.92e972c4.js"
+  ]
+}
